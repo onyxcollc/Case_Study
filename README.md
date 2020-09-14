@@ -29,7 +29,7 @@ Founders: Brandon Krieg left Ed Robinson Right.
 
 
 
-## 1. Business Activities: 
+## 1. Business Activities 
 * The company wants to to make investing easy and relatible and affordable to the average investor. 
 
 * The companiees main users are 18-34 years old Americans, avreage age 29 which is **80%** of there business and the market cap is **75 million**. Solutions include making Stash just **$5** to start investing; it takes 5 mins to sign up. Built in learning mechanism (Stash Learn) to help users become more financialy literate, teaches users how to invest over time and (Stash Advisor) stays with users to help guides with and tips. (Auto-Stash) helps users become consistant investors.  Users will understand what (dollar cost average) which is a very impartant invetment skill. 
@@ -41,7 +41,7 @@ Major partnership with a digital bank (Green Dot) this helped them have the opti
 
 
 
-## 2. Landscape:
+## 2. Landscape
  * Stahs's Domain is Personal Finance, Deposits, Online Banking, Stock Investing, & InsurTech; Stash has their hand in a lot of domains. The major trends that has been occuring in these domains are efficient access to these financial products. Stash has created a plateform that houses pretty much every financial product you can think of, and its goal is to continue to expand its services. Some of the the major competiters in this space are RobinHood, Acorn, YieldStreet, Kabbage, Revolut.
  
  What made Stash different from all the other competitors was when the company offered acccounts and debit cards they also created (Stock Back). What that means is for every daily purchase users can collect fractions of stocks of there favorite brands by just shopping.
