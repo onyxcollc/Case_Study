@@ -32,7 +32,7 @@ Founders: Brandon Krieg left Ed Robinson Right.
 ## 1. Business Activities 
 * The company wants to to make investing easy and relatible and affordable to the average investor. 
 
-* The companiees main users are 18-34 years old Americans, avreage age 29 which is **80%** of there business and the market cap is **75 million**. Solutions include making Stash just **$5** to start investing; it takes 5 mins to sign up. Built in learning mechanism (Stash Learn) to help users become more financialy literate, teaches users how to invest over time and (Stash Advisor) stays with users to help guides with and tips. (Auto-Stash) helps users become consistant investors.  Users will understand what (dollar cost average) which is a very impartant invetment skill. 
+* The companiees main users are 18-34 years old Americans, avreage age 29 which is **80%** of there business and the market cap is **75 million**. Solutions include making Stash just **$5** to start investing; it takes 5 mins to sign up. Built in learning mechanism (Stash Learn) to help users become more financialy literate, teaches users how to invest over time and (Stash Advisor) stays with users to help guides with and tips. (Auto-Stash) helps users become consistant investors.  Users will understand what (dollar cost average) which is a very important investment skill. 
  
 
 * Heroku is the main sofware which helps with server management, and gives more time for product development. 
